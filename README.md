@@ -1,2 +1,2 @@
 # estimating_robustness
-Jupyter notebooks, python codes and data for the Estimating Robustness paper
+Jupyter notebooks, python code and data for the Estimating Robustness paper
